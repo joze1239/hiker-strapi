@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "location_types",
+  "info": {
+    "singularName": "location-type",
+    "pluralName": "location-types",
+    "displayName": "LocationType",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    }
+  }
+}

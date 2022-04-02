@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "locations",
+  "info": {
+    "singularName": "location",
+    "pluralName": "locations",
+    "displayName": "Location",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "latitude": {
+      "type": "float"
+    },
+    "longitude": {
+      "type": "float"
+    },
+    "height": {
+      "type": "integer"
+    },
+    "locationType": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::location-type.location-type"
+    },
+    "url": {
+      "type": "string"
+    },
+    "visitedAt": {
+      "type": "date"
+    },
+    "mountain": {
+      "type": "enumeration",
+      "enum": [
+        "Ljubljana",
+        "Julijske Alpe"
+      ]
+    }
+  }
+}
