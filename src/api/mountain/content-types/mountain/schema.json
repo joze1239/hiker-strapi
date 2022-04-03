@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mountains",
+  "info": {
+    "singularName": "mountain",
+    "pluralName": "mountains",
+    "displayName": "Mountain"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

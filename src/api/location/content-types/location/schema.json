@@ -8,18 +8,21 @@
     "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
     "name": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "latitude": {
-      "type": "float"
+      "type": "float",
+      "required": true
     },
     "longitude": {
-      "type": "float"
+      "type": "float",
+      "required": true
     },
     "height": {
       "type": "integer"
@@ -36,11 +39,9 @@
       "type": "date"
     },
     "mountain": {
-      "type": "enumeration",
-      "enum": [
-        "Ljubljana",
-        "Julijske Alpe"
-      ]
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::mountain.mountain"
     }
   }
 }
