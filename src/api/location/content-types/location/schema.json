@@ -35,13 +35,25 @@
     "url": {
       "type": "string"
     },
-    "visitedAt": {
-      "type": "date"
-    },
     "mountain": {
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::mountain.mountain"
+    },
+    "note": {
+      "type": "text"
+    },
+    "walkTime": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "visitedAt": {
+      "type": "text"
+    },
+    "parking": {
+      "type": "string"
     }
   }
 }
