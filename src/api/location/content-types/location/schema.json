@@ -49,11 +49,13 @@
     "address": {
       "type": "string"
     },
-    "visitedAt": {
-      "type": "text"
-    },
     "parking": {
       "type": "string"
+    },
+    "visitedAt": {
+      "type": "component",
+      "repeatable": true,
+      "component": "visit-date.visit-date"
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_visit_date_visit_dates",
+  "info": {
+    "displayName": "VisitDate",
+    "icon": "calendar-alt"
+  },
+  "options": {},
+  "attributes": {
+    "date": {
+      "type": "date"
+    },
+    "endDate": {
+      "type": "date"
+    }
+  }
+}
