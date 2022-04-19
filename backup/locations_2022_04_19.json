@@ -1,0 +1,2988 @@
+{
+  "data": [
+    {
+      "id": 32,
+      "attributes": {
+        "name": "Šmartinsko jezero",
+        "latitude": 46.2797,
+        "longitude": 15.2673,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:44:40.726Z",
+        "updatedAt": "2022-04-09T08:44:40.726Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Celje, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": "Triglav",
+        "latitude": 46.37832,
+        "longitude": 13.83648,
+        "height": 2864,
+        "url": "https://www.hribi.net/gora/triglav/1/1",
+        "createdAt": "2022-04-03T17:41:40.894Z",
+        "updatedAt": "2022-04-04T21:38:59.611Z",
+        "note": null,
+        "walkTime": "6h - 7,5h",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Julijske Alpe",
+              "createdAt": "2022-04-03T19:14:09.934Z",
+              "updatedAt": "2022-04-03T19:14:09.934Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 1,
+      "attributes": {
+        "name": "Šmarna gora",
+        "latitude": 46.12985,
+        "longitude": 14.46391,
+        "height": 676,
+        "url": "https://www.hribi.net/gora/smarna_gora/5/117",
+        "createdAt": "2022-04-02T20:55:01.873Z",
+        "updatedAt": "2022-04-04T21:39:14.799Z",
+        "note": null,
+        "walkTime": "0,5h - 1,5h",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Ljubljana",
+              "createdAt": "2022-04-03T19:14:02.209Z",
+              "updatedAt": "2022-04-03T19:14:02.209Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 33,
+      "attributes": {
+        "name": "Rudniško jezero",
+        "latitude": 45.6484,
+        "longitude": 14.8703,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:46:04.036Z",
+        "updatedAt": "2022-04-09T08:46:04.036Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Kočevje, Jugovzhodna Slovenija",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 22,
+      "attributes": {
+        "name": "Slap Parabola",
+        "latitude": 46.40169438177634,
+        "longitude": 13.607927582119942,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T21:55:34.378Z",
+        "updatedAt": "2022-04-06T21:57:28.119Z",
+        "note": null,
+        "walkTime": "Hoja 25 min",
+        "address": "Log pod Mangartom, Goriška",
+        "parking": "Log pod Mangartom",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "name": "Grmada nad Celjem",
+        "latitude": 46.20143,
+        "longitude": 15.27142,
+        "height": 718,
+        "url": "https://www.hribi.net/gora/grmada_nad_celjem/25/877",
+        "createdAt": "2022-04-05T19:19:31.247Z",
+        "updatedAt": "2022-04-05T19:21:56.932Z",
+        "note": "Ideja za izlet: Celjski grad, mestni gozd ",
+        "walkTime": "1h - 1,5h ",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Zasavsko-Posavsko hribovje ",
+              "createdAt": "2022-04-05T19:21:45.611Z",
+              "updatedAt": "2022-04-05T19:21:45.611Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "name": "Martuljski slapovi",
+        "latitude": 46.473,
+        "longitude": 13.8293,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-05T19:31:34.551Z",
+        "updatedAt": "2022-04-05T19:31:34.551Z",
+        "note": null,
+        "walkTime": "Do 1. slapu 30 min, do 2. slapu 1 ura hoje",
+        "address": "Gozd Martuljek, Gorenjska",
+        "parking": "Gozd Martuljek",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "name": "Šunikov vodni gaj",
+        "latitude": 46.313705318984,
+        "longitude": 13.658075187112,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-05T19:27:27.498Z",
+        "updatedAt": "2022-04-05T19:31:47.999Z",
+        "note": null,
+        "walkTime": "Celoten ogled traja 50 min",
+        "address": "Bovec, Goriška",
+        "parking": "Ob tabli za vodni gaj je parkirišče",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 34,
+      "attributes": {
+        "name": "Jezero Kreda",
+        "latitude": 46.4164,
+        "longitude": 13.9917,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:47:06.216Z",
+        "updatedAt": "2022-04-09T08:47:06.216Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Radovna, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "name": "Slap Sušec",
+        "latitude": 45.5657,
+        "longitude": 14.2537,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-05T19:34:41.480Z",
+        "updatedAt": "2022-04-05T19:34:41.480Z",
+        "note": null,
+        "walkTime": "Do slapu je 10 min hoje",
+        "address": "Ilirska Bistrica, Notranjska",
+        "parking": "Avto pustimo v starem delu mesta",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "name": "Slap Rinka",
+        "latitude": 46.3708,
+        "longitude": 14.5928,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-05T19:37:50.962Z",
+        "updatedAt": "2022-04-05T19:38:30.353Z",
+        "note": "Vstopnina v Logarsko dolino za avto znaša 7€",
+        "walkTime": "Hoja 15 min",
+        "address": "Logarska dolina, Savinjska",
+        "parking": "Na koncu Logarske doline",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": [{ "id": 1, "date": "2020-08-23", "endDate": null }]
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "name": "Donačka gora ",
+        "latitude": 46.26268,
+        "longitude": 15.7423,
+        "height": 884,
+        "url": "https://www.hribi.net/gora/donacka_gora/11/837",
+        "createdAt": "2022-04-05T19:38:22.902Z",
+        "updatedAt": "2022-04-05T19:39:40.687Z",
+        "note": null,
+        "walkTime": "1h - 2h",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Karavanke ",
+              "createdAt": "2022-04-05T19:28:27.125Z",
+              "updatedAt": "2022-04-05T19:28:27.125Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "name": "Koča na Hleviški planini",
+        "latitude": 45.98723,
+        "longitude": 13.99585,
+        "height": 818,
+        "url": "https://www.hribi.net/gora/koca_na_hleviski_planini/21/830",
+        "createdAt": "2022-04-05T19:24:55.913Z",
+        "updatedAt": "2022-04-05T19:39:58.248Z",
+        "note": null,
+        "walkTime": "1,5h - 2,5h ",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Cerkljansko hribovje ",
+              "createdAt": "2022-04-05T19:26:56.171Z",
+              "updatedAt": "2022-04-05T19:26:56.171Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "name": "Polhorajska Gora (Sv. Lovrenc) ",
+        "latitude": 46.07083,
+        "longitude": 14.29876,
+        "height": 824,
+        "url": "https://www.hribi.net/gora/polhograjska_gora_sveti_lovrenc/5/264",
+        "createdAt": "2022-04-05T19:35:11.388Z",
+        "updatedAt": "2022-04-05T19:40:12.644Z",
+        "note": null,
+        "walkTime": "1h - 1,5h",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "Polhograjsko hribovje ",
+              "createdAt": "2022-04-05T19:28:57.586Z",
+              "updatedAt": "2022-04-05T19:28:57.586Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "name": "Sv. Jošt nad Kranjem ",
+        "latitude": 46.24281,
+        "longitude": 14.30319,
+        "height": 845,
+        "url": "https://www.hribi.net/gora/sveti_jost_nad_kranjem/21/186",
+        "createdAt": "2022-04-05T19:36:54.398Z",
+        "updatedAt": "2022-04-05T19:40:52.892Z",
+        "note": null,
+        "walkTime": "0,5h - 15h ",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Škofjeloško hribovje ",
+              "createdAt": "2022-04-05T19:27:28.456Z",
+              "updatedAt": "2022-04-05T19:27:28.456Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "name": "Polhograjska Grmada ",
+        "latitude": 46.08381,
+        "longitude": 14.33304,
+        "height": 898,
+        "url": "https://www.hribi.net/gora/polhograjska_grmada/5/75",
+        "createdAt": "2022-04-05T19:43:40.093Z",
+        "updatedAt": "2022-04-05T19:43:40.093Z",
+        "note": "Premalo? Podaljšaj do Tošč. ",
+        "walkTime": "0,5h - 2,5h ",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "Polhograjsko hribovje ",
+              "createdAt": "2022-04-05T19:28:57.586Z",
+              "updatedAt": "2022-04-05T19:28:57.586Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "name": "Slap Peričnik",
+        "latitude": 46.4391,
+        "longitude": 13.8938,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-05T19:44:18.695Z",
+        "updatedAt": "2022-04-05T19:44:18.695Z",
+        "note": null,
+        "walkTime": "10 min do 1. slapu in še 10 min do 2. slapu",
+        "address": "Mojstrana, Gorenjska",
+        "parking": "Koča pri slapu Peričnik",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "name": "Lisca",
+        "latitude": 46.06797,
+        "longitude": 15.28482,
+        "height": 948,
+        "url": "https://www.hribi.net/gora/lisca/25/766",
+        "createdAt": "2022-04-05T19:45:32.492Z",
+        "updatedAt": "2022-04-05T19:45:32.492Z",
+        "note": "Povzpni se po ferati. Težavnost C/D",
+        "walkTime": "0,5h - 2h ",
+        "address": null,
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Hrib",
+              "color": "#a27c5b",
+              "createdAt": "2022-04-02T20:54:18.250Z",
+              "updatedAt": "2022-04-10T16:16:53.068Z"
+            }
+          }
+        },
+        "mountain": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Zasavsko-Posavsko hribovje ",
+              "createdAt": "2022-04-05T19:21:45.611Z",
+              "updatedAt": "2022-04-05T19:21:45.611Z"
+            }
+          }
+        },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "name": "Davški slapovi",
+        "latitude": 46.1746,
+        "longitude": 14.0025,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-05T19:46:53.399Z",
+        "updatedAt": "2022-04-05T19:46:53.399Z",
+        "note": null,
+        "walkTime": "Hoja 20 minut",
+        "address": "Cerkno, Goriška",
+        "parking": "Pri potoku Davča",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "name": "Slap Boka",
+        "latitude": 46.3214,
+        "longitude": 13.482,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T21:24:45.445Z",
+        "updatedAt": "2022-04-06T21:24:45.445Z",
+        "note": null,
+        "walkTime": "Hoja 30 min",
+        "address": "Bovec, Goriška",
+        "parking": "Ob cesti Bovec - Kobarid",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 24,
+      "attributes": {
+        "name": "Slap Savica",
+        "latitude": 46.29276,
+        "longitude": 13.79741,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T22:09:59.028Z",
+        "updatedAt": "2022-04-06T22:09:59.028Z",
+        "note": "Vstopnina 3€",
+        "walkTime": "Hoja 20 min",
+        "address": "Ukanc, Gorenjska",
+        "parking": "Koča pri Savici",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": [{ "id": 2, "date": "2021-10-09", "endDate": null }]
+      }
+    },
+    {
+      "id": 23,
+      "attributes": {
+        "name": "Stegovniški slap",
+        "latitude": 46.4022,
+        "longitude": 14.3975,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T22:02:55.071Z",
+        "updatedAt": "2022-04-06T22:10:06.193Z",
+        "note": null,
+        "walkTime": "Hoja 10 min",
+        "address": "Tržič, Gorenjska",
+        "parking": "Pri vasi Medvodje",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "name": "Slap Črne vode",
+        "latitude": 46.438613195363416,
+        "longitude": 13.713855943120876,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T21:28:28.617Z",
+        "updatedAt": "2022-04-06T21:41:59.664Z",
+        "note": null,
+        "walkTime": "Hoja 1 ura",
+        "address": "Kranjska Gora, Gorenjska",
+        "parking": "Planica",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 25,
+      "attributes": {
+        "name": "Slap Kozjak",
+        "latitude": 46.2607,
+        "longitude": 13.5905,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T22:13:08.252Z",
+        "updatedAt": "2022-04-06T22:13:08.252Z",
+        "note": "Vstopnina 4€",
+        "walkTime": "Hoja 25 min",
+        "address": "Kobarid, Goriška",
+        "parking": "Ob cesti proti Drežnici je plačljivo parkirišče",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "name": "Slap Virje",
+        "latitude": 46.334933941432325,
+        "longitude": 13.514195063546765,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T21:45:38.298Z",
+        "updatedAt": "2022-04-06T21:47:11.097Z",
+        "note": null,
+        "walkTime": "Hoja 10 min",
+        "address": "Bovec, Goriška",
+        "parking": "Vas Plužna",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "name": "Slap Orglice",
+        "latitude": 46.33329623168726,
+        "longitude": 14.618757598903784,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T21:50:37.940Z",
+        "updatedAt": "2022-04-06T21:51:06.987Z",
+        "note": null,
+        "walkTime": "Hoja 50 min",
+        "address": "Kamniška Bistrica, Osrednjeslovenska",
+        "parking": "Na cesti proti Kamniški Bistrici je na desni manjše parkirišče",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 35,
+      "attributes": {
+        "name": "Bohinjsko jezero",
+        "latitude": 46.284,
+        "longitude": 13.8594,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:48:20.444Z",
+        "updatedAt": "2022-04-09T08:48:20.444Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Bohinj, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 21,
+      "attributes": {
+        "name": "Slap Šumik",
+        "latitude": 46.482793393326546,
+        "longitude": 15.452923522298477,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-06T21:52:55.921Z",
+        "updatedAt": "2022-04-06T21:54:22.515Z",
+        "note": null,
+        "walkTime": "Hoja 30 min",
+        "address": "Slovenska Bistrica, Podravska",
+        "parking": "Šumik pri Bajgotu",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 26,
+      "attributes": {
+        "name": "Slap Kotel",
+        "latitude": 45.85463015789543,
+        "longitude": 14.445996564200641,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-08T17:49:10.007Z",
+        "updatedAt": "2022-04-08T17:49:53.728Z",
+        "note": null,
+        "walkTime": "Hoja 40 min",
+        "address": "Vas Zala, Notranjska",
+        "parking": "Vas Zala",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 27,
+      "attributes": {
+        "name": "Slap Šum",
+        "latitude": 46.27164451518951,
+        "longitude": 14.267019553172418,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-08T17:51:48.216Z",
+        "updatedAt": "2022-04-08T17:52:26.953Z",
+        "note": null,
+        "walkTime": "Hoja 15 min",
+        "address": "Zgornja Besnica, Gorenjska",
+        "parking": "Zgornja Besnica",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": [{ "id": 3, "date": "2021-10-09", "endDate": null }]
+      }
+    },
+    {
+      "id": 28,
+      "attributes": {
+        "name": "Slap Sopota",
+        "latitude": 46.17062764130117,
+        "longitude": 13.802927507236944,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-08T17:54:18.127Z",
+        "updatedAt": "2022-04-08T17:55:30.308Z",
+        "note": null,
+        "walkTime": "Hoja 30 min",
+        "address": "Podmelec, Goriška",
+        "parking": "V vasi Podmelec",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 29,
+      "attributes": {
+        "name": "Slap Cuc",
+        "latitude": 46.319093,
+        "longitude": 14.724613,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-08T17:59:17.456Z",
+        "updatedAt": "2022-04-08T17:59:17.456Z",
+        "note": "Sledimo oznakam za goro Rogatec, avto pustimo na označenem parkirišču. Na peš pot proti Rogatcu nato prečkamo potok čez brv, ki nas pripelje do slapu.",
+        "walkTime": "Hoja 45 min",
+        "address": "Luče, Dolina Podvolovjek, Savinjska",
+        "parking": "",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 30,
+      "attributes": {
+        "name": "Repov Slap",
+        "latitude": 46.307879278762755,
+        "longitude": 14.707652163469703,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-08T18:02:22.032Z",
+        "updatedAt": "2022-04-08T18:03:03.719Z",
+        "note": null,
+        "walkTime": "Hoja 20 min",
+        "address": "Luče, Savinjska",
+        "parking": "Pri Žagarskemu mlinu",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 36,
+      "attributes": {
+        "name": "Jezero Jasna",
+        "latitude": 46.474,
+        "longitude": 13.7841,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:50:06.065Z",
+        "updatedAt": "2022-04-09T08:50:06.065Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Kranjska Gora, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 31,
+      "attributes": {
+        "name": "Slap Grmečica",
+        "latitude": 46.284919225160564,
+        "longitude": 13.996424054356993,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-08T18:04:41.430Z",
+        "updatedAt": "2022-04-08T18:06:05.293Z",
+        "note": null,
+        "walkTime": "Hoja 20 min",
+        "address": "Nomenj, Gorenjska",
+        "parking": "Gostilna pri Matičku",
+        "locationType": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Slap",
+              "color": "#124aa3",
+              "createdAt": "2022-04-05T19:25:32.926Z",
+              "updatedAt": "2022-04-10T16:15:21.782Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "name": "Blejsko jezero",
+        "latitude": 46.3636,
+        "longitude": 14.0938,
+        "height": null,
+        "url": "https://www.hribi.net/gora/blejsko_jezero/1/3353",
+        "createdAt": "2022-04-03T19:19:43.579Z",
+        "updatedAt": "2022-04-09T08:43:29.635Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Bled, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": [
+          { "id": 4, "date": "2021-10-08", "endDate": "2021-10-10" }
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "attributes": {
+        "name": "Podpeško jezero",
+        "latitude": 45.9686,
+        "longitude": 14.4323,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:51:27.780Z",
+        "updatedAt": "2022-04-09T08:51:27.780Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Podpeč, Osrednjeslovenska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 38,
+      "attributes": {
+        "name": "Gradiško Jezero",
+        "latitude": 46.1577,
+        "longitude": 14.7133,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:52:43.117Z",
+        "updatedAt": "2022-04-09T08:52:43.117Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Lukovica, Osrednjeslovensko",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 39,
+      "attributes": {
+        "name": "Jezerca Bobovek",
+        "latitude": 46.276596,
+        "longitude": 14.363264,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:54:37.045Z",
+        "updatedAt": "2022-04-09T08:54:37.045Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Kranj, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 40,
+      "attributes": {
+        "name": "Klevevška Toplica",
+        "latitude": 45.9063,
+        "longitude": 15.2332,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:56:40.817Z",
+        "updatedAt": "2022-04-09T08:56:40.817Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Klavevž, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 41,
+      "attributes": {
+        "name": "Šobčev bajer",
+        "latitude": 46.3535,
+        "longitude": 14.1509,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:58:28.974Z",
+        "updatedAt": "2022-04-09T08:58:28.974Z",
+        "note": "Jezero za kopanje. Vstopnina 5€ v sezoni.",
+        "walkTime": null,
+        "address": "Lesce, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 42,
+      "attributes": {
+        "name": "Bloško Jezero",
+        "latitude": 45.786,
+        "longitude": 14.5158,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-09T08:59:36.278Z",
+        "updatedAt": "2022-04-09T08:59:36.278Z",
+        "note": "Jezero za kopanje",
+        "walkTime": null,
+        "address": "Nova vas, Bloke, Notranjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 43,
+      "attributes": {
+        "name": "Soboško jezero",
+        "latitude": 46.63868,
+        "longitude": 16.16889,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T11:36:07.229Z",
+        "updatedAt": "2022-04-10T11:36:07.229Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Murska Sobota, Prekmurje",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": [{ "id": 5, "date": "2021-04-28", "endDate": null }]
+      }
+    },
+    {
+      "id": 44,
+      "attributes": {
+        "name": "Jezero Črnava",
+        "latitude": 46.3036,
+        "longitude": 14.4259,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:34:49.214Z",
+        "updatedAt": "2022-04-10T12:34:49.214Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Preddvor, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 45,
+      "attributes": {
+        "name": "Jezero Rakitna",
+        "latitude": 45.8863,
+        "longitude": 14.4321,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:35:54.939Z",
+        "updatedAt": "2022-04-10T12:35:54.939Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Rakitna, Osrednjeslovenska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 46,
+      "attributes": {
+        "name": "Reško jezero",
+        "latitude": 45.5779,
+        "longitude": 14.788,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:37:22.964Z",
+        "updatedAt": "2022-04-10T12:37:22.964Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Kočevska reka, Jugovzodna Slovenija",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 47,
+      "attributes": {
+        "name": "Planšarsko jezero",
+        "latitude": 46.403,
+        "longitude": 14.5161,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:38:53.919Z",
+        "updatedAt": "2022-04-10T12:38:53.919Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Jezersko, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 48,
+      "attributes": {
+        "name": "Cerkniško Jezero",
+        "latitude": 45.7663,
+        "longitude": 14.3544,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:39:50.938Z",
+        "updatedAt": "2022-04-10T12:39:50.938Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Cerknica, Notranjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 49,
+      "attributes": {
+        "name": "Ivarčko jezero",
+        "latitude": 46.5061,
+        "longitude": 14.9708,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:41:40.452Z",
+        "updatedAt": "2022-04-10T12:41:40.452Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Ravne na Koroškem, Koroška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 50,
+      "attributes": {
+        "name": "Ribniško Jezero",
+        "latitude": 46.4949,
+        "longitude": 15.2698,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:43:00.726Z",
+        "updatedAt": "2022-04-10T12:43:00.726Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Pohorje, Podravska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 51,
+      "attributes": {
+        "name": "Slivniško Jezero",
+        "latitude": 46.1889,
+        "longitude": 15.4437,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:45:32.943Z",
+        "updatedAt": "2022-04-10T12:45:32.943Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Šentjur, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 52,
+      "attributes": {
+        "name": "Divje Jezero",
+        "latitude": 45.9817,
+        "longitude": 14.0284,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:46:48.847Z",
+        "updatedAt": "2022-04-10T12:46:48.847Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Idrija, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 53,
+      "attributes": {
+        "name": "Perniško jezero",
+        "latitude": 46.5895,
+        "longitude": 15.7265,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:47:58.819Z",
+        "updatedAt": "2022-04-10T12:47:58.819Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Pernica, Podravska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 54,
+      "attributes": {
+        "name": "Lovrenška jezera",
+        "latitude": 46.4836871635,
+        "longitude": 15.3156465619,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:49:21.898Z",
+        "updatedAt": "2022-04-10T12:49:21.898Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Rogla, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 55,
+      "attributes": {
+        "name": "Završniško jezero",
+        "latitude": 46.40678268,
+        "longitude": 14.1480701813,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:51:04.339Z",
+        "updatedAt": "2022-04-10T12:51:47.798Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Završnica, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 56,
+      "attributes": {
+        "name": "Jezero Javorniški rovt",
+        "latitude": 46.4573,
+        "longitude": 14.1021,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:53:45.839Z",
+        "updatedAt": "2022-04-10T12:53:45.839Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Jesenice, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 57,
+      "attributes": {
+        "name": "Zbiljsko jezero",
+        "latitude": 46.1557,
+        "longitude": 14.4191,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:55:01.223Z",
+        "updatedAt": "2022-04-10T12:55:01.223Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Medvode, Osrednjeslovenska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 89,
+      "attributes": {
+        "name": "Grad Tabor",
+        "latitude": 46.15708195049274,
+        "longitude": 15.237427605514483,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:24:01.073Z",
+        "updatedAt": "2022-04-19T19:26:54.886Z",
+        "note": "V gradu je restavracija",
+        "walkTime": null,
+        "address": "Laško, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 58,
+      "attributes": {
+        "name": "Črno jezero na Pohorju",
+        "latitude": 46.44994,
+        "longitude": 15.43096,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:55:57.761Z",
+        "updatedAt": "2022-04-10T12:56:45.484Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Oplotnica, Podravska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 59,
+      "attributes": {
+        "name": "Bukovniško Jezero",
+        "latitude": 46.6744,
+        "longitude": 16.3355,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T12:58:04.920Z",
+        "updatedAt": "2022-04-10T12:58:04.920Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Dobrovnik, Prekmurje",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Jezero",
+              "color": "#2F8DFA",
+              "createdAt": "2022-04-03T19:19:14.853Z",
+              "updatedAt": "2022-04-10T16:12:43.472Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 60,
+      "attributes": {
+        "name": "Velika korita Soče",
+        "latitude": 46.3405,
+        "longitude": 13.6511,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:09:36.393Z",
+        "updatedAt": "2022-04-10T13:09:36.393Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Soča, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 61,
+      "attributes": {
+        "name": "Mala korita Soče",
+        "latitude": 46.3416,
+        "longitude": 13.6843,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:11:52.575Z",
+        "updatedAt": "2022-04-10T13:11:52.575Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Soča, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 62,
+      "attributes": {
+        "name": "Korita Mlinarice",
+        "latitude": 46.40282,
+        "longitude": 13.74513,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:16:05.572Z",
+        "updatedAt": "2022-04-10T13:16:05.572Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Bovec, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 63,
+      "attributes": {
+        "name": "Tolminska korita",
+        "latitude": 46.198,
+        "longitude": 13.7402,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:17:45.545Z",
+        "updatedAt": "2022-04-10T13:17:45.545Z",
+        "note": "Vstopnina: 5€ - 8€",
+        "walkTime": null,
+        "address": "Tolmin, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 64,
+      "attributes": {
+        "name": "Izvir reke Krupe",
+        "latitude": 45.6349,
+        "longitude": 15.2168,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:21:21.481Z",
+        "updatedAt": "2022-04-10T13:21:21.481Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Krupa, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 65,
+      "attributes": {
+        "name": "Zelenci",
+        "latitude": 46.4926,
+        "longitude": 13.7378,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:25:51.898Z",
+        "updatedAt": "2022-04-10T13:25:51.898Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Kranjska Gora, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 66,
+      "attributes": {
+        "name": "Idrijca",
+        "latitude": 46.150647911545406,
+        "longitude": 13.748480928414068,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:28:24.969Z",
+        "updatedAt": "2022-04-10T13:29:15.591Z",
+        "note": "Kopanje: Slap ob Idrijci in Baču pri Modreju",
+        "walkTime": null,
+        "address": "Idrija pri Bači, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 67,
+      "attributes": {
+        "name": "Most na Soči",
+        "latitude": 46.153217661752734,
+        "longitude": 13.74009782170063,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:30:04.249Z",
+        "updatedAt": "2022-04-10T13:30:32.287Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Most na Soči, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 68,
+      "attributes": {
+        "name": "Reka Lahinja",
+        "latitude": 45.5108398,
+        "longitude": 15.2017381,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:32:27.615Z",
+        "updatedAt": "2022-04-10T13:32:27.615Z",
+        "note": "To do: Kranjski park Lahinja",
+        "walkTime": null,
+        "address": "Bela krajina, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 70,
+      "attributes": {
+        "name": "Sotočje",
+        "latitude": 46.1737,
+        "longitude": 13.74,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:38:01.375Z",
+        "updatedAt": "2022-04-10T13:38:01.375Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Tolmin, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 71,
+      "attributes": {
+        "name": "Reka Kokra",
+        "latitude": 46.2339,
+        "longitude": 14.3562,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:38:55.867Z",
+        "updatedAt": "2022-04-10T13:38:55.867Z",
+        "note": "To do: Kanjon Kokre, Kosorep",
+        "walkTime": null,
+        "address": "Preddvor, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 69,
+      "attributes": {
+        "name": "Reka Drava",
+        "latitude": 46.56544266935006,
+        "longitude": 15.616717942040594,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-10T13:35:10.765Z",
+        "updatedAt": "2022-04-10T13:40:39.227Z",
+        "note": "To do: kolesarske in sprehajalne poti ob Dravi",
+        "walkTime": null,
+        "address": "Maribor, Podravska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "Skriti kotiček ob vodi",
+              "color": "#EB648B",
+              "createdAt": "2022-04-10T13:08:20.079Z",
+              "updatedAt": "2022-04-10T16:13:25.944Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": [{ "id": 6, "date": "2022-04-10", "endDate": null }]
+      }
+    },
+    {
+      "id": 72,
+      "attributes": {
+        "name": "Grad Snežnik",
+        "latitude": 45.6828,
+        "longitude": 14.4692,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-11T19:14:52.907Z",
+        "updatedAt": "2022-04-11T19:14:52.907Z",
+        "note": "Vstopnina: 5€",
+        "walkTime": null,
+        "address": "Stari trg pri Ložu, Notranjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 73,
+      "attributes": {
+        "name": "Dvorec Gutenbuchel",
+        "latitude": 46.3924,
+        "longitude": 15.0555,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-11T19:16:35.068Z",
+        "updatedAt": "2022-04-11T19:16:35.068Z",
+        "note": "V dvorcu je 2x na leto razstava",
+        "walkTime": null,
+        "address": "Šoštanj, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 74,
+      "attributes": {
+        "name": "Grad Otočec",
+        "latitude": 45.838,
+        "longitude": 15.2348,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-11T19:18:57.177Z",
+        "updatedAt": "2022-04-11T19:18:57.177Z",
+        "note": "Hotel in restavracija",
+        "walkTime": null,
+        "address": "Novo mesto, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 75,
+      "attributes": {
+        "name": "Grad Kromberk",
+        "latitude": 45.9616,
+        "longitude": 13.6859,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-11T19:20:55.009Z",
+        "updatedAt": "2022-04-11T19:20:55.009Z",
+        "note": "Vstopnina: 4€",
+        "walkTime": null,
+        "address": "Nova Gorica, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 76,
+      "attributes": {
+        "name": "Grad Negova",
+        "latitude": 46.6096,
+        "longitude": 15.9369,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-11T19:22:15.370Z",
+        "updatedAt": "2022-04-11T19:22:15.370Z",
+        "note": "Vstopnina: 3€",
+        "walkTime": null,
+        "address": "Spodnji Ivanjci, Pomurska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 77,
+      "attributes": {
+        "name": "Dvorec Štatenberg",
+        "latitude": 46.3252,
+        "longitude": 15.6733,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-11T19:23:26.991Z",
+        "updatedAt": "2022-04-11T19:23:26.991Z",
+        "note": "V gradu je restavracija",
+        "walkTime": null,
+        "address": "Štatenberg, Podravska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 78,
+      "attributes": {
+        "name": "Grad Lemberg",
+        "latitude": 46.3225860913079,
+        "longitude": 15.247069487848108,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-11T19:24:22.801Z",
+        "updatedAt": "2022-04-11T19:24:57.215Z",
+        "note": null,
+        "walkTime": null,
+        "address": "Nova Cerkev, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 81,
+      "attributes": {
+        "name": "Grad Podsreda",
+        "latitude": 46.0281,
+        "longitude": 15.5899,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:12:34.554Z",
+        "updatedAt": "2022-04-19T19:12:34.554Z",
+        "note": "Vstopnina: 4€",
+        "walkTime": null,
+        "address": "Podsreda, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 82,
+      "attributes": {
+        "name": "Ptujski grad",
+        "latitude": 46.421,
+        "longitude": 15.8675,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:13:33.628Z",
+        "updatedAt": "2022-04-19T19:13:44.493Z",
+        "note": "Vstopnina: 6€",
+        "walkTime": null,
+        "address": "Ptuj, Podravska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 80,
+      "attributes": {
+        "name": "Ljubljanski grad",
+        "latitude": 46.0489,
+        "longitude": 14.5084,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:11:24.896Z",
+        "updatedAt": "2022-04-19T19:14:00.855Z",
+        "note": "Vstopnina: 10€",
+        "walkTime": null,
+        "address": "Ljubljana, Osrednjeslovenska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 79,
+      "attributes": {
+        "name": "Velenjski grad",
+        "latitude": 46.3566,
+        "longitude": 15.11,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-11T19:25:47.445Z",
+        "updatedAt": "2022-04-19T19:14:27.095Z",
+        "note": "Vstopnina: 3€",
+        "walkTime": null,
+        "address": "Velenje, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 83,
+      "attributes": {
+        "name": "Celjski grad",
+        "latitude": 46.2195,
+        "longitude": 15.272,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:15:14.905Z",
+        "updatedAt": "2022-04-19T19:15:14.905Z",
+        "note": "Vstopnina: 6€",
+        "walkTime": null,
+        "address": "Celje, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 84,
+      "attributes": {
+        "name": "Grad Žužemberk",
+        "latitude": 45.8303,
+        "longitude": 14.9289,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:16:49.810Z",
+        "updatedAt": "2022-04-19T19:16:49.810Z",
+        "note": "Vstopnina: 2€",
+        "walkTime": null,
+        "address": "Žužemberk, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 85,
+      "attributes": {
+        "name": "Grad Strmol",
+        "latitude": 46.2648,
+        "longitude": 14.479,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:17:45.214Z",
+        "updatedAt": "2022-04-19T19:17:45.214Z",
+        "note": "V gradu sta hotel in kavarna",
+        "walkTime": null,
+        "address": "Dvorje, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 86,
+      "attributes": {
+        "name": "Grad Grad",
+        "latitude": 46.7998,
+        "longitude": 16.096,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:19:05.153Z",
+        "updatedAt": "2022-04-19T19:20:53.122Z",
+        "note": "Vstopnina: 4€",
+        "walkTime": null,
+        "address": "Grad, Pomurska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 87,
+      "attributes": {
+        "name": "Grad Mokrice",
+        "latitude": 45.8584,
+        "longitude": 15.6757,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:21:55.033Z",
+        "updatedAt": "2022-04-19T19:21:55.033Z",
+        "note": "V gradu je hotel",
+        "walkTime": null,
+        "address": "Jesenice na Dolenjskem, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 88,
+      "attributes": {
+        "name": "Grad Kostel",
+        "latitude": 45.5087,
+        "longitude": 14.9104,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:23:11.874Z",
+        "updatedAt": "2022-04-19T19:23:11.874Z",
+        "note": "Vstopnina: 4€",
+        "walkTime": null,
+        "address": "Kostel, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 90,
+      "attributes": {
+        "name": "Grad Gewerkenegg",
+        "latitude": 46.0007,
+        "longitude": 14.0185,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:24:48.282Z",
+        "updatedAt": "2022-04-19T19:24:48.282Z",
+        "note": "Vstopnina: 7€",
+        "walkTime": null,
+        "address": "Idrija, Goriška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 91,
+      "attributes": {
+        "name": "Predjamski grad",
+        "latitude": 45.8158,
+        "longitude": 14.1269,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:25:39.624Z",
+        "updatedAt": "2022-04-19T19:25:39.624Z",
+        "note": "Vstopnina: 15€",
+        "walkTime": null,
+        "address": "Postojna, Notranjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 97,
+      "attributes": {
+        "name": "Škocjanske jame",
+        "latitude": 45.6658,
+        "longitude": 13.99,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:43:18.052Z",
+        "updatedAt": "2022-04-19T20:14:50.083Z",
+        "note": "Odrta vsak dan. Vstopnina: 18€",
+        "walkTime": null,
+        "address": "Divača, Kraška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Jama",
+              "color": "#f8c653",
+              "createdAt": "2022-04-19T19:39:41.864Z",
+              "updatedAt": "2022-04-19T19:39:41.864Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 92,
+      "attributes": {
+        "name": "Blejski grad",
+        "latitude": 46.3699,
+        "longitude": 14.1006,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:29:23.621Z",
+        "updatedAt": "2022-04-19T19:29:23.621Z",
+        "note": "Vstopnina: 11€",
+        "walkTime": null,
+        "address": "Bled, Gorenjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": [{ "id": 7, "date": "2021-10-08", "endDate": null }]
+      }
+    },
+    {
+      "id": 93,
+      "attributes": {
+        "name": "Grad Turjak",
+        "latitude": 45.877,
+        "longitude": 14.6075,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:30:42.623Z",
+        "updatedAt": "2022-04-19T19:30:42.623Z",
+        "note": "Ni vstopa",
+        "walkTime": null,
+        "address": "Turjak, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 94,
+      "attributes": {
+        "name": "Grad Mirna",
+        "latitude": 45.9582852,
+        "longitude": 15.0537449,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:32:57.637Z",
+        "updatedAt": "2022-04-19T19:32:57.637Z",
+        "note": "Ni vstopa",
+        "walkTime": null,
+        "address": "Mirna, Jugovzhodna",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 95,
+      "attributes": {
+        "name": "Žička Kartuzija",
+        "latitude": 46.31,
+        "longitude": 15.3935,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:34:15.174Z",
+        "updatedAt": "2022-04-19T19:34:15.174Z",
+        "note": "Vstopnina: 5€",
+        "walkTime": null,
+        "address": "Slovenjske Konjice, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "Grad",
+              "color": "#EB7E30",
+              "createdAt": "2022-04-10T16:14:29.845Z",
+              "updatedAt": "2022-04-10T16:14:29.845Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 96,
+      "attributes": {
+        "name": "Postojnska jama",
+        "latitude": 45.783,
+        "longitude": 14.2038,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:40:41.335Z",
+        "updatedAt": "2022-04-19T20:14:39.668Z",
+        "note": "Odprta vsak dan. Vstopnina: 20€",
+        "walkTime": null,
+        "address": "Postojna, Notranjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Jama",
+              "color": "#f8c653",
+              "createdAt": "2022-04-19T19:39:41.864Z",
+              "updatedAt": "2022-04-19T19:39:41.864Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 98,
+      "attributes": {
+        "name": " Snežna jama",
+        "latitude": 46.3986,
+        "longitude": 14.742,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T19:44:47.209Z",
+        "updatedAt": "2022-04-19T20:14:44.982Z",
+        "note": "Odprta v juliju in avgustu. Vstopnina 15€",
+        "walkTime": null,
+        "address": "Raduha, Savinjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Jama",
+              "color": "#f8c653",
+              "createdAt": "2022-04-19T19:39:41.864Z",
+              "updatedAt": "2022-04-19T19:39:41.864Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 99,
+      "attributes": {
+        "name": "Križna jama",
+        "latitude": 45.7455,
+        "longitude": 14.4674,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T20:15:50.998Z",
+        "updatedAt": "2022-04-19T20:15:50.998Z",
+        "note": "Vstopnina: 10€",
+        "walkTime": null,
+        "address": "Bloška polica, Notranjska",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Jama",
+              "color": "#f8c653",
+              "createdAt": "2022-04-19T19:39:41.864Z",
+              "updatedAt": "2022-04-19T19:39:41.864Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    },
+    {
+      "id": 100,
+      "attributes": {
+        "name": "Jama Vilenica",
+        "latitude": 45.6744,
+        "longitude": 13.9121,
+        "height": null,
+        "url": null,
+        "createdAt": "2022-04-19T20:18:22.658Z",
+        "updatedAt": "2022-04-19T20:18:22.658Z",
+        "note": "Vstopnina: 10€",
+        "walkTime": null,
+        "address": "Lokev, Kraška",
+        "parking": null,
+        "locationType": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Jama",
+              "color": "#f8c653",
+              "createdAt": "2022-04-19T19:39:41.864Z",
+              "updatedAt": "2022-04-19T19:39:41.864Z"
+            }
+          }
+        },
+        "mountain": { "data": null },
+        "visitedAt": []
+      }
+    }
+  ],
+  "meta": { "pagination": { "start": 0, "limit": 100, "total": 104 } }
+}
