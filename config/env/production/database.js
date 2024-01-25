@@ -2,7 +2,7 @@
 
 
 module.exports = ({ env }) => {
-  console.log("database.js", env);
+  console.log("database.js", env('DATABASE_URL', 'missing'));
   return {
 
   }
